@@ -1,3 +1,6 @@
+//kind of useless
+
+
 console.log('a = ', a)
 var a = 2 // declaracao da variavel eh levantada
 console.log('a = ', a)
